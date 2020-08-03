@@ -4,5 +4,5 @@
 
 /.vs
 /.vscode
-*.cpp
-*.exe
+/*.cpp
+/*.exe
