@@ -6,4 +6,5 @@
 /.vscode
 /*.cpp
 /*.exe
+.cph
 Competitive Programming.code-workspace
